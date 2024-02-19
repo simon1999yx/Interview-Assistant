@@ -38,7 +38,7 @@ Interview Assistant is a Python application designed to conduct interviews using
 9. Once the interview is complete, the summary will be written to the `write.txt` file in the same directory.
 
 ## Notes
-
+- Replace CHATGPT-API with yours first.
 - Make sure to provide appropriate permissions for microphone access on your system.
 - Adjust the OpenAI model and parameters as needed for specific interview requirements.
 
