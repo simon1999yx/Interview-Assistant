@@ -1,6 +1,6 @@
 # Interview Assistant
 
-Interview Assistant is a Python application designed to conduct interviews using speech recognition and AI-powered conversation. It allows interviewers to ask questions verbally, record responses, and generate summaries of interview sessions.
+Interview Assistant is a Python application designed to conduct interviews using speech recognition and AI-powered conversation. It allows interviewers to ask questions verbally, record responses, and generate summaries of interview sessions into a local file `write.txt`(Can be shared as a blog).
 
 ## Features
 
