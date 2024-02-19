@@ -9,7 +9,7 @@ import os
 recognizer = sr.Recognizer()
 
 # Initialize the OpenAI client
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='YOUR CHATGPT3.5 API HERE')
 
 # Define a list of questions
 questions = [
